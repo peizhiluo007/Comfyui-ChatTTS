@@ -38,13 +38,15 @@ OpenVoiceClone ：方便迁移音色，更好地控制角色声音
 模型：
 
 下载后放到 ```models/chat_tts```
-
 https://huggingface.co/2Noise/ChatTTS
 
 音色pt文件放到```models/chat_tts_speaker```
+音色pt文件从[ChatTTS_Speaker/summary](https://modelscope.cn/studios/ttwwwaa/ChatTTS_Speaker/summary)挑选喜欢的音色,下载后命名保存
 
-[openvoice 模型](https://myshell-public-repo-hosting.s3.amazonaws.com/openvoice/checkpoints_v2_0417.zip)放到```models/open_voice```
+![alt text](assets/E7B978795C34.png)
 
+[openvoice 模型](https://hf-mirror.com/myshell-ai/OpenVoiceV2)放到```models/open_voice```
+![alt text](assets/89AEC254B3CD.png)
 
 [whisper模型](https://github.com/SYSTRAN/faster-whisper/tree/master)放到```models/whisper/large-v3```
 
